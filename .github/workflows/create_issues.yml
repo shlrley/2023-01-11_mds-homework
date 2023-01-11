@@ -150,4 +150,4 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         title: DSCI 572 quiz2
-        content-filepath: ./issue-content/quiz.md
+        content-filepath: ./issue-content/quiz.md 
